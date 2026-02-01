@@ -1,0 +1,7 @@
+{
+  "name": "ZenTask AI",
+  "description": "A sophisticated AI-powered todo list with intelligent task breakdown, smart prioritization, and contextual suggestions using Gemini 3.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
